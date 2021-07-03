@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fzmirsalim
 - 👀 I’m interested in programming and hacking
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python
 - 📫 you can watch my video learning on aparat.com/Gomnam_hh
 
 
